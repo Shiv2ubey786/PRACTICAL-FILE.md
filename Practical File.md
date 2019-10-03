@@ -13,3 +13,5 @@
 #### **DEPARTMENT:-**_CIVIL_
 
 #### **SECTION:-** _B2_
+
+![logo](https://raw.githubusercontent.com/Shiv2ubey786/PRACTICAL-FILE.md/master/index.jpeg)

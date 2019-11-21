@@ -14,7 +14,7 @@
 
 #### **SECTION:-** _B2_
 
-![logo](https://raw.githubusercontent.com/Shiv2ubey786/PRACTICAL-FILE.md/master/index.jpeg)
+![logo](https://github.com/Shiv2ubey786/PRACTICA-FILE.md/blob/master/logo.jpg)
 
  # List of programs
 ### 1.Addition of two integers
